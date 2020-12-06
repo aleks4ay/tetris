@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="p1" prefHeight="700.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#8f6b8333" height="450.0" layoutX="50.0" layoutY="50.0" stroke="BLACK" strokeType="INSIDE" width="450.0" />
+      <Line endX="50.0" endY="450.0" layoutX="25.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="50.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="75.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="100.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="125.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="150.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="175.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="200.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="225.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="250.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="275.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="300.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="325.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="350.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="375.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="400.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+      <Line endX="50.0" endY="450.0" layoutX="425.0" layoutY="50.0" startX="50.0" stroke="#55c1c1b0" />
+
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="50.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="75.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="100.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="125.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="150.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="175.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="200.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="225.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="250.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="275.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="300.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="325.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="350.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="375.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="400.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="425.0" startY="25.0" stroke="#55c1c1b0" />
+      <Line endX="450.0" endY="25.0" layoutX="50.0" layoutY="450.0" startY="25.0" stroke="#55c1c1b0" />
+</Pane>
